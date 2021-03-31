@@ -23,3 +23,10 @@ button {
     width: 100%;
     border-collapse: collapse;
   }
+
+  .DeleteIcon {
+    background: url(../images/delete.svg);
+     width:100%; 
+     background-repeat:no-repeat; 
+     background-position: center
+  }
